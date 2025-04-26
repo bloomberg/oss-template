@@ -1,6 +1,7 @@
 # Open Source Project Template
 
 [![Release](https://img.shields.io/github/v/release/bloomberg/oss-template?display_name=tag)](CHANGELOG.md)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/bloomberg/oss-template/badge)](https://scorecard.dev/viewer/?uri=github.com/bloomberg/oss-template)
 [![Lint](https://github.com/bloomberg/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/marketplace/actions/super-linter)
 [![Contributor-Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-fbab2c.svg)](CODE_OF_CONDUCT.md)
 
