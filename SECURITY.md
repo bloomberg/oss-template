@@ -32,7 +32,7 @@ indicating the next steps in handling your report.
 
 If you've been unable to successfully draft a vulnerability report via GitHub
 or have not received a response during the alloted response window, please
-reach out via the [Cisco Open security contact email](mailto:oss-security@cisco.com).
+reach out to our [Open Source Security team](mailto:oss_security@bloomberg.net).
 
 After the initial reply to your report, the maintainers will endeavor to keep
 you informed of the progress towards a fix and full announcement, and may ask
