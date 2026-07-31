@@ -1,0 +1,22 @@
+# .project/darnit.yaml - Darnit Extension
+#
+# Extension fields for security tooling (OpenSSF Baseline, etc.)
+# Standard CNCF .project fields are in project.yaml
+
+slug: ""
+project_lead: ""
+cncf_slack_channel: ""
+package_managers: {}
+version: "1.0"
+controls: {}
+context:
+  has_subprojects: false
+  has_releases: true
+  is_library: false
+  has_compiled_assets: false
+  ci_provider: github
+  platform: github
+  maintainers:
+    - "@bloomberg/ospo-admins"
+  security_contact: oss_security@bloomberg.net
+  governance_model: corporate
